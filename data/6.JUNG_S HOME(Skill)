@@ -1,0 +1,20 @@
+<h2>1.HTML/CSS/Javascript</h2>
+
+<p>HTML/CSS를 기반으로 기초적인 홈페이지의 전체적인 틀을 제작<br/>
+Javascript를 활용 사용자에게 있어 동적 페이지를 구성<br/></p>
+
+<h2>2.PHP</h2>
+
+<p>PHP를 활용하여 홈페이지 구성 제작<br/></p>
+
+<img src = './img/index.jpg' width = 800px; height = 800px;>
+
+<h2>3.PHP와 Mysql 연동</h2>
+
+<p>PHP와 Mysql을 연동시켜 방문자가 글을 입력하고 수정 가능</p>
+
+<img src = './img/print.jpg' width = 800px; height = 800px;>
+
+<img src = './img/create.jpg' width = 800px; height = 400px;>
+
+<img src = './img/update.jpg' width = 800px; height = 400px;>
