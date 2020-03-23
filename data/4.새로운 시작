@@ -13,4 +13,4 @@
 
 <p align ='center'>제가 잘할 수 있는 것은 끊임없이 생각하여 무언가를 만들어 내는 것이라 생각이 되었고,
 친구의 조언으로 인해 IT업계에 발을 들어 놓게 되었습니다. 그렇게 저의 <font size =5px>2번째 여정</font>이 시작되었습니다.</p>
-<p id = 'img_1'><img src = "./img/start.png"; width =500px; height = 300px;></p>
+<p align = 'center'><img src = "./img/start.png"; width =500px; height = 300px;></p>

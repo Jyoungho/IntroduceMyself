@@ -19,12 +19,6 @@
     padding : 15px;
   }
 
-  #img_1{
-    text-align: center;
-    width : 200px;
-    height : 150px;
-  }
-
    #grid{
      display : grid;
      width :100%;
