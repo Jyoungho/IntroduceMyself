@@ -13,7 +13,17 @@ require_once('lib/print.php');
 </head>
 
 <body>
-  <h1 id = 'totalbody'> <a href ='index.php'> JUNG'S HOME PAGE</a></h1>
+<div id = "top">
+    <div >
+      <a href = 'index.php'> <img src = "./img/top_logo.jpg" width = '90px' style = "padding-left : 5%; padding-top : 5%; border-radius : 40%"> </a>
+    </div>
+    <div >
+      <h1 style = 'text-align : center'> <a href ='index.php'> JUNG'S HOME PAGE</a></h1>  
+    </div>
+      <a href = "./contact.html" target = "_blank"><img src = "./img/contact.jpg" width = '90px' style = "padding-right : 5px; border-radius: 50%;"></a>
+    </div>
+  </div>
+
   <div id = 'grid'>
             <ul id = "menu">
               <?php print_list(); ?>

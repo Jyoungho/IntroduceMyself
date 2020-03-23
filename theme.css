@@ -1,20 +1,16 @@
+
   #top {
     border-bottom : 2px solid black;
     display : grid;
     grid-template-columns: 1fr 8fr 1fr;
   }
-  h1.top_title {
-    vertical-align: middle;
-    text-align : center;
-    margin : 0;
-  }
   #menu{
     border-right :2px solid black;
     padding: 10px;
     margin:0px;  }
+
   #infor_1{
     display : inline-grid;
-
     margin :0%;
     padding : 15px;
   }
