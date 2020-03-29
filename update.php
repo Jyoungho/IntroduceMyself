@@ -24,7 +24,6 @@ require_once('lib/print.php');
   </div>
 </div>
 
-
 <div id = 'grid'>
             <ul id = "menu">
               <?php print_list(); ?>
