@@ -32,3 +32,6 @@ function nightDayHandle(self){
 
     }
 }
+function openProfile(){
+  var newProfile = window.open('./contact.html','popup','width = 600px, height =600px, scrollbars = no, resizable = no'); 
+}

@@ -1,29 +1,34 @@
-
   #top {
     border-bottom : 2px solid black;
     display : grid;
     grid-template-columns: 1fr 8fr 1fr;
   }
+  .profile-button{
+   border : none;
+   background-color: white;
+   cursor: pointer;
+  }
   #menu{
     border-right :2px solid black;
     padding: 10px;
-    margin:0px;  }
-
+    margin:0px; 
+  }
+ 
   #infor_1{
     display : inline-grid;
     margin :0%;
     padding : 15px;
   }
 
-   #grid{
+  #grid{
      display : grid;
      width :100%;
      grid-template-columns :17% 1fr;
    }
-   #change{
+  #change{
      display :grid;
      grid-template-columns : 73% 1fr;
-   }
+  }
    input[type=submit] {
      background-color: #7c8d31d6;
      color: white;
@@ -38,3 +43,4 @@ textarea{
    background-color: #f8f8f8;
    resize: none;
 }
+
